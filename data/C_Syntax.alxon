@@ -1,0 +1,68 @@
+{
+	"void" = "0xFF0000FF"
+	"char" = "0xFF0000FF"
+	"short" = "0xFF0000FF"
+	"int" = "0xFF0000FF"
+	"long" = "0xFF0000FF"
+
+	"float" = "0xFF0000FF"
+	"double" = "0xFF0000FF"
+
+	"return" = "0xFF0000FF"
+	"break" = "0xFF0000FF"
+	"continue" = "0xFF0000FF"
+
+	"case" = "0xFF0000FF"
+	"default" = "0xFF0000FF"
+
+	"if" = "0xFF0000FF"
+	"else" = "0xFF0000FF"
+	"while" = "0xFF0000FF"
+	"for" = "0xFF0000FF"
+	"switch" = "0xFF0000FF"
+	"do" = "0xFF0000FF"
+
+	"struct" = "0xFF0000FF"
+	"union" = "0xFF0000FF"
+	"enum" = "0xFF0000FF"
+
+	"goto" = "0xFF0000FF"
+	"typedef" = "0xFF0000FF"
+	"sizeof" = "0xFF0000FF"
+
+	"signed" = "0xFF0000FF"
+	"unsigned" = "0xFF0000FF"
+	"static" = "0xFF0000FF"
+	"auto" = "0xFF0000FF"
+
+	"register" = "0xFF0000FF"
+	"volatile" = "0xFF0000FF"
+	"extern" = "0xFF0000FF"
+	
+	"+" = "0xFF00FF00"
+	"-" = "0xFF00FF00"
+	"*" = "0xFF00FF00"
+	"/" = "0xFF00FF00"
+	"." = "0xFF00FF00"
+	"," = "0xFF00FF00"
+	":" = "0xFF00FF00"
+	";" = "0xFF00FF00"
+
+	"=" = "0xFFFF0000"
+	"&" = "0xFFFF0000"
+	"|" = "0xFFFF0000"
+	"<" = "0xFFFF0000"
+	">" = "0xFFFF0000"
+	"?" = "0xFFFF0000"
+	"!" = "0xFFFF0000"
+	"#" = "0xFFFF0000"
+	"$" = "0xFFFF0000"
+	"%" = "0xFFFF0000"
+
+	"(" = "0xFFFFFF00"
+	")" = "0xFFFFFF00"
+	"{" = "0xFFFFFF00"
+	"}" = "0xFFFFFF00"
+	"[" = "0xFFFFFF00"
+	"]" = "0xFFFFFF00"
+}
